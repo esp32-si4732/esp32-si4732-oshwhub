@@ -1,6 +1,6 @@
 # ESP32-SI4732 Radio Receiver
 
-Original receiver schematics and source code from https://oshwhub.com/sunnygold/esp32s3-si4732-shou-yin-ji
+Original receiver schematics and source code from https://oshwhub.com/sunnygold/esp32s3-si4732-shou-yin-ji. Newer version of the Chinese firmware is available at https://github.com/zhang-chong/4732mini/
 
 The receiver uses ESP32-S3 and SI4732 and is based on the following projects:
 
